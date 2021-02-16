@@ -4,7 +4,7 @@ Hi im hadi and currently working on several things:
 
 - [Bot Diprat](https://github.com/idahdam/bot-diprat-docs)
 - [Personal Homepage](https://github.com/idahdam/personal-homepage)
-- [Please, Finihs Me!](https://github.com/idahdam/PleaseFinishMe-Repo)
+- [Please, Finish Me!](https://github.com/idahdam/PleaseFinishMe-Repo)
 - Things I consider private so don't ask
 
 
