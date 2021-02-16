@@ -1,10 +1,10 @@
-## hey this is cool but i'm to lazy to update things
+## hey this is cool but i'm too lazy to update things
 
 Hi im hadi and currently working on several things:
 
-- [Bot Diprat](https://github.com/idahdam/bot-diprat-docs)
-- [Personal Homepage](https://github.com/idahdam/personal-homepage)
-- [Please, Finish Me!](https://github.com/idahdam/PleaseFinishMe-Repo)
+- [Bot Diprat](https://github.com/idahdam/bot-diprat-docs), a discord bot
+- [Personal Homepage](https://github.com/idahdam/personal-homepage), a personal homepage
+- [Please, Finish Me!](https://github.com/idahdam/PleaseFinishMe-Repo), an android app
 - Things I consider private so don't ask
 
 
