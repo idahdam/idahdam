@@ -1,4 +1,4 @@
-## hey this is cool but i'm to lazy to update things fml.
+## hey this is cool but i'm to lazy to update things
 
 Hi im hadi and currently working on several things:
 
