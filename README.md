@@ -1,4 +1,4 @@
-### hey this's cool
+### hey this's cool but i'm to lazy to update this
 
 <!--
 **idahdam/idahdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
