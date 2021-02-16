@@ -3,9 +3,12 @@
 Hi im hadi and currently working on several things:
 
 - [Bot Diprat](https://github.com/idahdam/bot-diprat-docs)
-- [Personal Homepage]: https://github.com/idahdam/personal-homepage
-- [Please, Finihs Me!]: https://github.com/idahdam/PleaseFinishMe-Repo
+- [Personal Homepage](https://github.com/idahdam/personal-homepage)
+- [Please, Finihs Me!](https://github.com/idahdam/PleaseFinishMe-Repo)
 - Things I consider private so don't ask
+
+
+i consider myself as a person who likes to type on the keyboard. and computer stuff aswell. low level stuff seem challenging to me. 
 
 <!--
 **idahdam/idahdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
