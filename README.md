@@ -2,7 +2,7 @@
 
 Hi im hadi and currently working on several things:
 
-- [Bot Diprat](http://bot-diprat-docs.vercel.app/), a discord bot.
+- [Bot Diprat](http://bot-diprat-docs.vercel.app/), a discord bot (currently offline).
 - [Personal Homepage](https://github.com/idahdam/personal-homepage), a personal homepage
 - [Please, Finish Me!](https://github.com/idahdam/PleaseFinishMe-Repo), an android app
 - Things I consider private so don't ask
