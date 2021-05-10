@@ -3,7 +3,7 @@
 Hi im hadi and currently working on several things:
 
 - [Please, Finish Me!](https://github.com/idahdam/PleaseFinishMe-Repo), an android app
-- ScholarParser, and app to parse HTML based references into XLSX file using Python
+- ScholarParser, an app to parse HTML based academic references into XLSX file using Python
 - Things I consider private so don't ask
 
 
