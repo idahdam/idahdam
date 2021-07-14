@@ -1,4 +1,4 @@
-## hey this is cool but i'm too lazy to update things
+## Welcome to my github page.
 
 Hi im hadi and currently working on several things:
 
