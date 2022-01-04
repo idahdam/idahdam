@@ -1,12 +1,6 @@
 ## Welcome to my github page.
 
-Hi im hadi and currently working on several things:
-
-- Currently working.
-
-
-i consider myself as a person who likes to type on the keyboard. and computer stuff aswell. low level stuff seem challenging to me. 
-disclaimer: this github profile is so cluttered.
+Hi im hadi and currently working on several things. Checkout my public repositories for things I open for public.
 
 <!--
 **idahdam/idahdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
